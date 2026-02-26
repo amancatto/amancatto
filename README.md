@@ -2,8 +2,8 @@
 <h3 align="center">Android Developer | Kotlin | Jetpack Compose | MVVM</h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="YOUR_GITHUB">GitHub</a> •
+  <a href="https://www.linkedin.com/in/amanyadav0512/">LinkedIn</a> •
+  <a href="https://github.com/amancatto">GitHub</a> •
   <a href="mailto:amanyadav07093124@gmail.com">Email</a>
 </p>
 
@@ -27,6 +27,23 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Tech+Stack;Android+Development;Clean+Architecture+Enthusiast;Kotlin+%7C+Compose+%7C+MVVM" />
+</p>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=kotlin" width="70"/>
+<img src="https://skillicons.dev/icons?i=java" width="70"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="70"/>
+<img src="https://skillicons.dev/icons?i=androidstudio" width="70"/>
+<img src="https://skillicons.dev/icons?i=firebase" width="70"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs" width="70"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="70"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="70"/>
+<img src="https://skillicons.dev/icons?i=git" width="70"/>
+<img src="https://skillicons.dev/icons?i=github" width="70"/>
+
 </p>
 
 ## 🛠 Tech Stack
@@ -66,8 +83,7 @@
 ## 🤝 Connect With Me
 
 - 📧 Email: amanyadav07093124@gmail.com
-- 💼 LinkedIn: YOUR_LINKEDIN
-- 🐙 GitHub: YOUR_GITHUB
+
 
 ---
 
